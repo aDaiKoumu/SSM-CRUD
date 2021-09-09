@@ -3,6 +3,7 @@ package com.atguigu.pojo;
 import javax.validation.constraints.Pattern;
 
 public class Employee {
+     //    pull test
     private Integer empId;
 
     //    自定义校验规则
